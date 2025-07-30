@@ -32,7 +32,7 @@ from typing import Optional, Tuple, Dict, List
 
 CONFIG = {
     # File paths
-    'input_csv': 'zaramodelonly.csv',
+    'input_csv': 'input.csv',
     'output_directory': 'scraped_products',
     'success_file': 'successful_products.pkl',
     'not_found_file': 'not_found_products.pkl',

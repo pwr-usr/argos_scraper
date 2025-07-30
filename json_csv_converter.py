@@ -35,7 +35,7 @@ from datetime import date
 
 # --- Configuration ---
 INPUT_DIRECTORY = 'scraped_products'
-OUTPUT_CSV_FILE = 'zara_argos_products_model.csv'
+OUTPUT_CSV_FILE = 'output.csv'
 
 
 def parse_json_file(file_path, file_name):
