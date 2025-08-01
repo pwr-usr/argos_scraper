@@ -1,4 +1,5 @@
 # Argos Product Scraper - User Guide
+Check Joyspace for newest documentaion
 
 The Argos Scraper supports both EAN (European Article Number) codes and model numbers as search inputs.
 
